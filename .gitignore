@@ -1,0 +1,11 @@
+.svn
+/ipch
+/*.sdf
+/*.opensdf
+*.vcxproj.user
+/*.suo
+/Debug
+/Release
+/CI.MSBuild.Demo/Debug
+/CI.MSBuild.Demo/Release
+/packages

@@ -1,0 +1,2 @@
+nuget restore CI.MSBuild.Demo.sln 
+"C:\Program Files (x86)\MSBuild\12.0\bin\msbuild.exe" "CI.MSBuild.Demo.sln" /verbosity:detailed  /l:"packages\vsSBE.CI.MSBuild.1.0.5\bin\CI.MSBuild.dll" /m:12 /t:Rebuild

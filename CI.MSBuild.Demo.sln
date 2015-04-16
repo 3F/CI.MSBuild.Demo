@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CI.MSBuild.Demo", "CI.MSBuild.Demo\CI.MSBuild.Demo.vcxproj", "{EDCD3F07-AE49-43B7-B777-9DDAD1AD0C49}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{75B24E59-A747-4E2D-BFE4-C9EC2B2B48BE}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\packages.config = .nuget\packages.config
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug_Sln|Win32_Sln = Debug_Sln|Win32_Sln
+		Release_Sln|Win32_Sln = Release_Sln|Win32_Sln
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDCD3F07-AE49-43B7-B777-9DDAD1AD0C49}.Debug_Sln|Win32_Sln.ActiveCfg = Debug|Win32
+		{EDCD3F07-AE49-43B7-B777-9DDAD1AD0C49}.Debug_Sln|Win32_Sln.Build.0 = Debug|Win32
+		{EDCD3F07-AE49-43B7-B777-9DDAD1AD0C49}.Release_Sln|Win32_Sln.ActiveCfg = Release|Win32
+		{EDCD3F07-AE49-43B7-B777-9DDAD1AD0C49}.Release_Sln|Win32_Sln.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
