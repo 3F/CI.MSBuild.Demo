@@ -1,4 +1,4 @@
-// CI.MSBuild.Demo.cpp : Defines the entry point for the console application.
+// Project2.cpp : Defines the entry point for the console application.
 //
 
 #include "stdafx.h"
