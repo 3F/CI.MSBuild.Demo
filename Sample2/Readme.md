@@ -8,7 +8,10 @@
 * The all 'build_*.bat' is ready for MSBuild v12.0 & v14.0. Simply click it and watch similar as in result above.
 * Similar script for other project types - native C++, etc.
 
-TODO: CI status
+
+[![](https://img.shields.io/badge/build-passing-brightgreen.svg?style=flat)](https://ci.appveyor.com/project/3Fs/ci-msbuild-demo/build/build-9) :: build-9: 9f3658e0
+
+* [Artifacts](https://ci.appveyor.com/project/3Fs/ci-msbuild-demo/build/build-9/artifacts)
 
 Tested on:
 
